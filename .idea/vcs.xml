@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HeatClinicSelenium" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/Heat_Clinic_Selenium" vcs="Git" />
+  </component>
+</project>
